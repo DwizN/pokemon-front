@@ -38,7 +38,6 @@
                     solid: true,
                     autoHideDelay: 10000,
                 })
-                this.data = this.getFakeJson();
             });
         },
 
